@@ -3,7 +3,7 @@
 
 * [lab1](lab1) - [Проектирование баз данных. Основы работы в Oracle Data Modeler](https://drive.google.com/open?id=1XZqsdR8jKUcSdJb1yUX_KXVTKAHHCYIc)
 * [lab1_1](lab1_1) - [Проектирование баз данных. Основы работы в Oracle Data Modeler](https://drive.google.com/open?id=1nXSY8WV68whSJ6wEYtPB2Z2s2RPuMJbp)
-* lab2 - [Язык DDL](https://drive.google.com/open?id=1dH6h-dIaTsV6F27yThO_Ht5vyWfrtZOf)
+* [lab2](lab2) - [Язык DDL](https://drive.google.com/open?id=1dH6h-dIaTsV6F27yThO_Ht5vyWfrtZOf)
 * [lab3](lab3) - [Работа с запросами](https://drive.google.com/open?id=1oZBG2JSd_qo6aRTw9aR_w1MA44YiOJs6)
 * [lab4](lab4) - [INSERT, UPDATE, DELETE](https://drive.google.com/open?id=10K8fRtpWlSXG66vsUwmf5OrBAC7xiZe4)
 * [lab5](lab5) - [Представления](https://drive.google.com/open?id=1cm9YY5Wvcfnba85VqXS_H__IWPQ9TDBR)
