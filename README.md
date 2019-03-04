@@ -10,4 +10,5 @@
 * [lab6](lab6) - [Итоговая лабораторная работа. Язык SQL](https://drive.google.com/open?id=1YpExAUzNur8hdTIJDW7t2CQXNaqb6Acw)
 * [lab7](lab7) - [PL/SQL](https://drive.google.com/open?id=1p8-KnjD_he_r2iLcYYR8zHKRsJJjqeA8)
 * [lab8](lab8) - [Triggers](https://drive.google.com/open?id=1B2bLezgGv06w-XvvbBwQLjVp0wFgyf0r)
+* [lab9](lab9) - [Язык PL/SQL. Объекты.](https://drive.google.com/file/d/1v46o6HM1XtmrEK1GQArSeVl-LSLCuCRC/view?usp=sharing)/[Пример](https://drive.google.com/file/d/1KJxSts-2VZZilYvZa-iHWUcV40UydFkZ/view?usp=sharing)
 * [KR](KR1_variant12)
